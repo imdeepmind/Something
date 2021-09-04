@@ -1,2 +1,2 @@
 # Something
-ShilpiJS is an API builder
+Something is an API builder
